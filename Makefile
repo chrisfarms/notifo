@@ -1,6 +1,6 @@
 include $(GOROOT)/src/Make.inc
 
-TARG=github.com/chrisfarms/notifo
+TARG=notifo
 GOFILES=notifo.go
 
 include $(GOROOT)/src/Make.pkg
